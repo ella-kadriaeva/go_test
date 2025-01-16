@@ -1,0 +1,17 @@
+.container {
+  width: 1280px;
+  display: flex;
+  margin: auto;
+}
+.info {
+  background-color: #a391e8;
+  width: 400px;
+  height: 100vh;
+  padding: 20px;
+  color: beige;
+  display: flex;
+  justify-content: center;
+}
+.main {
+  padding: 20px 40px;
+}

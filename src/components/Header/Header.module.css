@@ -1,0 +1,16 @@
+.navContainer {
+  background-color: #141024;
+  color: white;
+  padding: 30px;
+}
+.menuList {
+  display: flex;
+  width: 600px;
+  margin: auto;
+  justify-content: space-between;
+  font-weight: 600;
+  font-size: 24px;
+}
+.active {
+  color: #8962cc;
+}

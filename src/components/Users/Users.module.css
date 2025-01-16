@@ -1,0 +1,14 @@
+.container {
+  width: 1280px;
+  display: flex;
+  margin: auto;
+}
+.info {
+  background-color: #a391e8;
+  width: 400px;
+  height: 100vh;
+}
+.main {
+  display: flex;
+  padding: 40px;
+}
